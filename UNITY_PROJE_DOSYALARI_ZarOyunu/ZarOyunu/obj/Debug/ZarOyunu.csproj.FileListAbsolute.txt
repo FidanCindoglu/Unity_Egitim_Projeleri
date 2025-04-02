@@ -1,0 +1,7 @@
+C:\Users\Cengiz\Desktop\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+C:\Users\Cengiz\Desktop\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe
+C:\Users\Cengiz\Desktop\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.pdb
+C:\Users\Cengiz\Desktop\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csprojAssemblyReference.cache
+C:\Users\Cengiz\Desktop\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz\Desktop\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.exe
+C:\Users\Cengiz\Desktop\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.pdb
